@@ -7,3 +7,9 @@ body {
     background-color: #fcfcfc;
     padding-top: 1%;
 }
+.panorama {
+    height: 400px;
+    background-image: url(img/panorama-horta.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
